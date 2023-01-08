@@ -20,3 +20,5 @@ elif computer_choice=='scissor' and user_choice=='rock':
     print("You win, Vivek selected "+computer_choice)
 else:
     print("Vivek win, he selected "+computer_choice)
+
+    
